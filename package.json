@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@cosmjs/cosmwasm-stargate": "^0.32.1",
+    "@ethersproject/bignumber": "^5.7.0",
     "@interchain-ui/react": "^1.16.7",
     "chain-registry": "^1.23.0",
     "cosmos-kit": "^2.6.0",
